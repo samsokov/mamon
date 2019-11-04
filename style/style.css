@@ -1,0 +1,125 @@
+body main .sec-2 {
+  background-color: #F8F8F8; }
+  body main .sec-2 .container .row .col-md-12 .many {
+    font-size: 16px;
+    line-height: 25px;
+    color: #9297A4;
+    margin-top: 24px; }
+  body main .sec-2 .container .row .col-md-12 .high-level {
+    margin-top: 128px;
+    font-size: 64px;
+    line-height: 79px; }
+body main section .container .row .eastwood-done {
+  margin-top: 64px; }
+body main section .container .row .col-lg-4 {
+  margin-bottom: 123px;
+  text-align: center;
+  padding-top: 128px; }
+  body main section .container .row .col-lg-4 .Develop {
+    font-weight: bold;
+    margin-top: 32px;
+    font-size: 24px;
+    line-height: 30px; }
+    body main section .container .row .col-lg-4 .Develop ul {
+      margin-top: 12px;
+      font-size: 16px;
+      line-height: 25px;
+      color: #9297A4; }
+body main section .container .row .col-lg-6 .form-control {
+  margin-top: 48px;
+  background: #F2F2F2;
+  border-radius: 4px 0px 0px 4px;
+  font-size: 20px;
+  line-height: 24px;
+  width: 328px !important;
+  height: 76px !important;
+  color: #C5C5C5; }
+body main section .container .row .col-lg-6 .input-group-text, body main section .container .row .col-lg-6 .input-group-text1 {
+  margin-top: 48px;
+  border-radius: 0px 4px 4px 0px;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center !important;
+  width: 242px;
+  height: 76px;
+  background: #5528FF;
+  color: white; }
+body main section .container .row .col-lg-6 .input-group-text1 {
+  width: 312px !important;
+  height: 76px !important; }
+body main section .container .row .relat {
+  position: relative; }
+  body main section .container .row .relat .trello {
+    right: 110px !important;
+    top: 20px;
+    position: absolute; }
+  body main section .container .row .relat .slack-img {
+    top: 20px;
+    left: 117px;
+    position: absolute; }
+  body main section .container .row .relat .robot-police {
+    margin-bottom: 64px;
+    margin-top: 32px; }
+body main section .container .row .col-md-12 .manyy {
+  margin-top: 24px;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  color: #9297A4; }
+body main section .container .row .col-md-12 .let {
+  padding-top: 192px;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 79px; }
+body main section .container .row .col-md-12 .our {
+  font-size: 64px;
+  line-height: 79px;
+  font-weight: bold;
+  padding-top: 192.18px !important; }
+body main section .container .row .col-md-12 .companies {
+  margin-top: 164px; }
+body main section .container .row .col-md-12 .eastwood {
+  margin-top: 64px; }
+body main section .container .row .col-md-12 .saas {
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  color: #9297A4;
+  margin-top: 24px; }
+body main section .container .row .col-md-12 h1 {
+  font-size: 64px;
+  line-height: 79px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 66.61px; }
+body main section .container .row .col-lg-3 .union-logo {
+  margin-top: 60px; }
+body main section .container .row .col-lg-3 .contact {
+  margin-top: 83px;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center; }
+body footer {
+  margin-top: 128px;
+  background-color: #5528FF; }
+  body footer .container .row .col-md-6 .be {
+    color: #DADADA;
+    opacity: 0.3;
+    font-size: 22px; }
+  body footer .container .row .col-md-6 .fa-instagram {
+    padding-right: 28px; }
+  body footer .container .row .col-md-6 .fab {
+    color: #DADADA;
+    margin-top: 54px;
+    padding-left: 28px;
+    opacity: 0.3; }
+  body footer .container .row .col-lg-6 .footer-text {
+    color: #FFFFFF;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    font-size: 32px;
+    line-height: 39px;
+    opacity: 0.3; }
+
+/*# sourceMappingURL=style.css.map */

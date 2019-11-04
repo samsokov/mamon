@@ -1,0 +1,207 @@
+body {
+  main {
+    .sec-2 {
+      background-color: #F8F8F8;
+
+      .container {
+        .row {
+          .col-md-12 {
+            .many {
+              font-size: 16px;
+              line-height: 25px;
+              color: #9297A4;
+              margin-top: 24px;
+            }
+
+            .high-level {
+              margin-top: 128px;
+              font-size: 64px;
+              line-height: 79px;
+            }
+          }
+        }
+      }
+    }
+
+    section {
+      .container {
+        .row {
+          .eastwood-done {
+            margin-top: 64px;
+          }
+
+          .col-lg-4 {
+            margin-bottom: 123px;
+            text-align: center;
+            padding-top: 128px;
+
+            .Develop {
+              font-weight: bold;
+              margin-top: 32px;
+              font-size: 24px;
+              line-height: 30px;
+
+              ul {
+                margin-top: 12px;
+                font-size: 16px;
+                line-height: 25px;
+                color: #9297A4;
+              }
+            }
+          }
+
+          .col-lg-6 {
+            .form-control {
+              margin-top: 48px;
+              background: #F2F2F2;
+              border-radius: 4px 0px 0px 4px;
+              font-size: 20px;
+              line-height: 24px;
+              //text-align: center !important;
+              width: 328px !important;
+              height: 76px !important;
+              color: #C5C5C5;
+            }
+
+            .input-group-text, .input-group-text1 {
+              margin-top: 48px;
+              border-radius: 0px 4px 4px 0px;
+              //text-align: center !important;
+              font-size: 24px;
+              line-height: 29px;
+              text-align: center !important;
+              width: 242px;
+              height: 76px;
+              background: #5528FF;
+              color: white;
+            }
+
+            .input-group-text1 {
+              width: 312px !important;
+              height: 76px !important;
+            }
+          }
+
+          .relat {
+            position: relative;
+
+            .trello {
+              right: 110px !important;
+              top: 20px;
+              position: absolute;
+            }
+
+            .slack-img {
+              top: 20px;
+              left: 117px;
+              position: absolute;
+            }
+
+            .robot-police {
+              margin-bottom: 64px;
+              margin-top: 32px;
+            }
+          }
+
+          .col-md-12 {
+            .manyy {
+              margin-top: 24px;
+              font-size: 16px;
+              line-height: 25px;
+              text-align: center;
+              color: #9297A4;
+            }
+
+            .let {
+              padding-top: 192px;
+              font-weight: bold;
+              font-size: 64px;
+              line-height: 79px;
+            }
+
+            .our {
+              font-size: 64px;
+              line-height: 79px;
+              font-weight: bold;
+              padding-top: 192.18px !important;
+            }
+
+            .companies {
+              margin-top: 164px;
+            }
+
+            .eastwood {
+              margin-top: 64px;
+            }
+
+            .saas {
+              font-size: 16px;
+              line-height: 25px;
+              text-align: center;
+              color: #9297A4;
+              margin-top: 24px;
+            }
+
+            h1 {
+              font-size: 64px;
+              line-height: 79px;
+              text-align: center;
+              font-weight: bold;
+              margin-top: 66.61px;
+            }
+          }
+
+          .col-lg-3 {
+            .union-logo {
+              margin-top: 60px;
+            }
+
+            .contact {
+              margin-top: 83px;
+              font-weight: bold;
+              font-size: 24px;
+              line-height: 30px;
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  footer {
+    margin-top: 128px;
+    background-color: #5528FF;;
+
+    .container {
+      .row {
+        .col-md-6{
+          .be{
+            color: #DADADA;
+            opacity: 0.3;
+            font-size: 22px ;
+          }
+          .fa-instagram{
+            padding-right: 28px;
+          }
+          .fab {
+            color: #DADADA;
+            margin-top: 54px;
+            padding-left: 28px;
+            opacity: 0.3;
+          }
+        }
+        .col-lg-6 {
+          .footer-text {
+            color: #FFFFFF;
+            margin-top: 48px;
+            margin-bottom: 48px;
+            font-size: 32px;
+            line-height: 39px;
+            opacity: 0.3;
+          }
+        }
+      }
+    }
+  }
+}
